@@ -1,15 +1,15 @@
 # GENETIC ALGORITHM FOR OPTIMAL MEAL CHOOSING
 
-### the algorithm returns a list of food items that best fits the user's budget based on the user's preferred nutrient and its goal intake amount
+### The algorithm returns a list of food items that best fits the user's budget based on the user's preferred nutrient and its goal intake amount
 
 ## SETUP
-use `python get-pip.py` to install **pip (Preferred Installer Program)** for Python
 
-use `python -m pip install --upgrade pip` to upgrade pip
+### Setup a Python environment inside a code editor like VSCode, open the terminal & use the following commands to finish setup:
 
-use `pip install collections enum functools rich` to install all necessary Python libraries
-
-use `python algorithm.py` to run the script
+- use `python get-pip.py` to install **pip (Preferred Installer Program)** for Python
+- use `python -m pip install --upgrade pip` to upgrade pip
+- use `pip install collections enum functools rich` to install all necessary Python libraries
+- use `python algorithm.py` to run the script
 
 
 ## USER INPUT
