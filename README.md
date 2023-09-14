@@ -1,4 +1,4 @@
-# GENETIC ALGORITHM FOR OPTIMAL MEAL CHOOSING
+# GENETIC ALGORITHM FOR OPTIMAL MEAL CHOICE
 
 ### The algorithm returns a list of food items that best fits the user's budget based on the user's preferred nutrient and its goal intake amount
 
