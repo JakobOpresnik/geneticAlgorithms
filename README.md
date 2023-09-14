@@ -3,9 +3,9 @@
 ### the algorithm returns a list of food items that best fits the user's budget based on the user's preferred nutrient and its goal intake amount
 
 ## SETUP
-use `python get-pip.py` to install **pip** (Preferred Installer Program) for Python
+use `python get-pip.py` to install **pip (Preferred Installer Program)** for Python
 
-use `python -m pip install --upgrade pip` to upgrade **pip**
+use `python -m pip install --upgrade pip` to upgrade pip
 
 use `pip install collections enum functools rich` to install all necessary Python libraries
 
