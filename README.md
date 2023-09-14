@@ -22,6 +22,6 @@
 ![user_input](user_input.PNG)
 
 ## RESULTS
-- table of food items with their corresponding nutritional values, prices & a biased taste assessments :)
+- table of food items with their corresponding nutritional values, prices & biased taste assessments :)
 
 ![results](results.PNG)
